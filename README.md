@@ -209,4 +209,4 @@ ai-research-system/
 - `GET /api/research/{id}/sources` — Fetch list of retrieved sources & relevance scores.
 - `GET /api/research/{id}/stream` — Real-time Server-Sent Events (SSE) agent state update stream.
 
-![System Demo](frontend\dist\assets\MultiAgent.gif)
+![System Demo](docs\MultiAgent.gif)
